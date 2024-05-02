@@ -1,0 +1,23 @@
+{
+  "name": "keywordstripper",
+  "version": "1.0.0",
+  "description": "Keyword Stripper for SEO Research",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dandrecollera/keywordstripper.git"
+  },
+  "keywords": [
+    "SEO",
+    "Keywords"
+  ],
+  "author": "Dandre Collera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dandrecollera/keywordstripper/issues"
+  },
+  "homepage": "https://github.com/dandrecollera/keywordstripper#readme"
+}
