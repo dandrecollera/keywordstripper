@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/dandrecollera/keywordstripper/issues"
   },
-  "homepage": "https://github.com/dandrecollera/keywordstripper#readme"
+  "homepage": "https://github.com/dandrecollera/keywordstripper#readme",
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "readline-sync": "^1.4.10"
+  }
 }
